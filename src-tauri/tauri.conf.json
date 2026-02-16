@@ -1,9 +1,9 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "World Monitor",
-  "mainBinaryName": "world-monitor",
+  "productName": "Crude macro",
+  "mainBinaryName": "crude-macro",
   "version": "2.3.7",
-  "identifier": "app.worldmonitor.desktop",
+  "identifier": "app.crudemacro.desktop",
   "build": {
     "beforeDevCommand": "npm run dev",
     "beforeBuildCommand": "npm run build",
@@ -13,7 +13,7 @@
   "app": {
     "windows": [
       {
-        "title": "World Monitor",
+        "title": "Crude macro",
         "width": 1440,
         "height": 900,
         "minWidth": 1200,
@@ -35,8 +35,8 @@
       "msi"
     ],
     "category": "Productivity",
-    "shortDescription": "World Monitor desktop app (supports World and Tech variants)",
-    "longDescription": "World Monitor desktop app for real-time global intelligence. Build with VITE_VARIANT=tech to package Tech Monitor branding and dataset defaults.",
+    "shortDescription": "Crude macro desktop app (supports World and Tech variants)",
+    "longDescription": "Crude macro desktop app for real-time global intelligence. Build with VITE_VARIANT=tech to package Tech Monitor branding and dataset defaults.",
     "icon": [
       "icons/32x32.png",
       "icons/128x128.png",

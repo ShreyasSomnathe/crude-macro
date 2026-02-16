@@ -1,13 +1,13 @@
-# World Monitor
+# Crude macro
 
 **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
-[![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/shreyassomnathe/crude-macro?style=social)](https://github.com/shreyassomnathe/crude-macro/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/shreyassomnathe/crude-macro?style=social)](https://github.com/shreyassomnathe/crude-macro/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Last commit](https://img.shields.io/github/last-commit/koala73/worldmonitor)](https://github.com/koala73/worldmonitor/commits/main)
-[![Latest release](https://img.shields.io/github/v/release/koala73/worldmonitor?style=flat)](https://github.com/koala73/worldmonitor/releases/latest)
+[![Last commit](https://img.shields.io/github/last-commit/shreyassomnathe/crude-macro)](https://github.com/shreyassomnathe/crude-macro/commits/main)
+[![Latest release](https://img.shields.io/github/v/release/shreyassomnathe/crude-macro?style=flat)](https://github.com/shreyassomnathe/crude-macro/releases/latest)
 
 <p align="center">
   <a href="https://worldmonitor.app"><img src="https://img.shields.io/badge/Web_App-worldmonitor.app-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web App"></a>&nbsp;
