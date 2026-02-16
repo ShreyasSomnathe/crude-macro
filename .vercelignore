@@ -1,0 +1,9 @@
+src-tauri
+sidecar
+.github
+.vscode
+tests
+e2e
+*.test.mjs
+*.test.js
+playwright.config.ts
